@@ -1,0 +1,2138 @@
+{
+  "BTech CSE": {
+    "1": [
+      {
+        "code": "CSEG1126",
+        "name": "Linux Lab",
+        "credits": 2
+      },
+      {
+        "code": "CSEG1025",
+        "name": "Programming in C",
+        "credits": 3
+      },
+      {
+        "code": "CSEG1125",
+        "name": "Programming in C Lab",
+        "credits": 2
+      },
+      {
+        "code": "CSEG1027",
+        "name": "Problem Solving",
+        "credits": 2
+      },
+      {
+        "code": "SSEN0101",
+        "name": "Environment Sustainability & Climate Change",
+        "credits": 2
+      },
+      {
+        "code": "SLLS0101",
+        "name": "Living Conversations",
+        "credits": 2
+      },
+      {
+        "code": "MATH1059",
+        "name": "Advanced Engineering Mathematics - 1",
+        "credits": 4
+      },
+      {
+        "code": "PHYS1032",
+        "name": "Physics for Computer Engineers",
+        "credits": 4
+      },
+      {
+        "code": "PHYS1132",
+        "name": "Physics Lab for Computer Engineers",
+        "credits": 1
+      }
+    ],
+    "2": [
+      {
+        "code": "CSEG1032",
+        "name": "Computer Organization and Architecture",
+        "credits": 3
+      },
+      {
+        "code": "CSEG1033",
+        "name": "Data Structures and Algorithms",
+        "credits": 4
+      },
+      {
+        "code": "CSEG1034",
+        "name": "Data Structures and Algorithms Lab",
+        "credits": 1
+      },
+      {
+        "code": "CSEG1035",
+        "name": "Python Programming",
+        "credits": 2
+      },
+      {
+        "code": "CSEG1135",
+        "name": "Python Programming Lab",
+        "credits": 2
+      },
+      {
+        "code": "ECEG1012",
+        "name": "Digital Electronics",
+        "credits": 3
+      },
+      {
+        "code": "SLSG0102",
+        "name": "Critical Thinking and Writing",
+        "credits": 2
+      },
+      {
+        "code": "SSEN0102",
+        "name": "Environment Sustainability and Climate Change (living Lab)",
+        "credits": 2
+      },
+      {
+        "code": "MATH1065",
+        "name": "Advanced Engineering Mathematics - 2",
+        "credits": 4
+      }
+    ],
+    "3": [
+      {
+        "code": "CSAI2015",
+        "name": "Elements of AIML",
+        "credits": 2
+      },
+      {
+        "code": "CSAI2115",
+        "name": "Elements of AIML Lab",
+        "credits": 1
+      },
+      {
+        "code": "CSEG2046",
+        "name": "Database Management Systems",
+        "credits": 3
+      },
+      {
+        "code": "CSEG2146",
+        "name": "Database Management Systems Lab",
+        "credits": 2
+      },
+      {
+        "code": "CSEG2021",
+        "name": "Design and Analysis of Algorithms",
+        "credits": 3
+      },
+      {
+        "code": "CSEG2121",
+        "name": "Design and Analysis of Algorithms Lab",
+        "credits": 1
+      },
+      {
+        "code": "CSEG2006",
+        "name": "Discrete Mathematical Structures",
+        "credits": 3
+      },
+      {
+        "code": "CSEG2060",
+        "name": "Operating Systems",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Exploratory-1",
+        "credits": 3
+      },
+      {
+        "code": "SLLS0201",
+        "name": "Design Thinking",
+        "credits": 2
+      }
+    ],
+    "4": [
+      {
+        "code": "CSEG2065",
+        "name": "Data communication and Networks",
+        "credits": 3
+      },
+      {
+        "code": "CSEG2165",
+        "name": "Data communication and Networks Lab",
+        "credits": 1
+      },
+      {
+        "code": "CSEG2020",
+        "name": "Object Oriented Programming",
+        "credits": 3
+      },
+      {
+        "code": "CSEG2120",
+        "name": "Object Oriented Programming Lab",
+        "credits": 1
+      },
+      {
+        "code": "CSEG2064",
+        "name": "Software Engineering",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Exploratory-2",
+        "credits": 3
+      },
+      {
+        "code": "MATH2059",
+        "name": "Linear Algebra",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Indian Constitution",
+        "credits": 0
+      },
+      {
+        "code": "SLLS2004",
+        "name": "EDGE-SoftSkills",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "PE-1",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "PE-1 Lab",
+        "credits": 1
+      }
+    ],
+    "5": [
+      {
+        "code": "CSEG3040",
+        "name": "Cryptography and Network Security",
+        "credits": 3
+      },
+      {
+        "code": "CSEG3055",
+        "name": "Formal Languages and Automata Theory",
+        "credits": 3
+      },
+      {
+        "code": "CSEG3002",
+        "name": "Object Oriented Analysis and Design",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Exploratory-3",
+        "credits": 3
+      },
+      {
+        "code": "SLSG0205",
+        "name": "Start your Startup",
+        "credits": 2
+      },
+      {
+        "code": "CSEG3060",
+        "name": "Research Methodology in CS",
+        "credits": 3
+      },
+      {
+        "code": "CSEG3056",
+        "name": "Probability, Entropy, and MC Simulation",
+        "credits": 3
+      },
+      {
+        "code": "EMPL003",
+        "name": "EDGE - Advance Communication",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "PE-2",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "PE-2 Lab",
+        "credits": 1
+      }
+    ],
+    "6": [
+      {
+        "code": null,
+        "name": "Exploratory-4",
+        "credits": 3
+      },
+      {
+        "code": "SLLS0103",
+        "name": "Leadership and Teamwork",
+        "credits": 2
+      },
+      {
+        "code": "CSEG3015",
+        "name": "Compiler Design",
+        "credits": 3
+      },
+      {
+        "code": "CSEG3057",
+        "name": "Statistics and Data Analysis",
+        "credits": 3
+      },
+      {
+        "code": "PROJ3154",
+        "name": "Minor Project",
+        "credits": 5
+      },
+      {
+        "code": "EMPL004",
+        "name": "EDGE - Advance Communication II",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "PE-3",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "PE-3 Lab",
+        "credits": 1
+      }
+    ],
+    "7": [
+      {
+        "code": "PROJ4145",
+        "name": "Capstone Project - Phase-1",
+        "credits": 5
+      },
+      {
+        "code": "SIIB4102",
+        "name": "Summer Internship",
+        "credits": 1
+      },
+      {
+        "code": null,
+        "name": "Exploratory-5",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "PE-4",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "PE-4 Lab",
+        "credits": 1
+      },
+      {
+        "code": null,
+        "name": "PE-5",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "PE-5 Lab",
+        "credits": 1
+      }
+    ],
+    "8": [
+      {
+        "code": "PROJ4146",
+        "name": "Capstone Project - Phase-2",
+        "credits": 5
+      },
+      {
+        "code": "CSEG4038",
+        "name": "IT Ethical Practices",
+        "credits": 3
+      }
+    ]
+  },
+  "BTech CSE Immersive": {
+    "1": [
+      {
+        "code": null,
+        "name": "Design Foundation for Engineers",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Programming in C",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Digital Electronics",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "AI Foundations & Ethical AI",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Linear Algebra and Matrix Methods",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Environment Sustainability & Climate Change",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Elements of AIML",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Physics",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Managing Self",
+        "credits": 2
+      }
+    ],
+    "2": [
+      {
+        "code": null,
+        "name": "Narratives and Storytelling for Interactive Media",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Discrete Mathematics",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Data Structures and Algorithms",
+        "credits": 5
+      },
+      {
+        "code": null,
+        "name": "Object Oriented Programming Using C++",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Visual Communication and Interface Design",
+        "credits": 5
+      },
+      {
+        "code": null,
+        "name": "Environment Sustainability & Climate Change (Living Lab)",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Emotional Intelligence",
+        "credits": 2
+      }
+    ],
+    "3": [
+      {
+        "code": null,
+        "name": "Generative AI (Prompt Engineering)",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "2D/3D Environment Design for Immersive Systems",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Operating Systems",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Design Analysis and Algorithms",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Human Computer Interaction",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "SRIJAN Social Internship",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "EDGE Aptitude Fundamentals",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "Exploratory 1",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Deepening Self",
+        "credits": 2
+      }
+    ],
+    "4": [
+      {
+        "code": null,
+        "name": "Data Communication & Computer Networks",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Information Architecture for Immersive Environments",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Database Systems (Relational + NoSQL)",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Computer Graphics",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Indian Constitution",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "Exploratory 2",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "EDGE Aptitude Basic",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "EDGE Basic Employability Skills",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "Art of Relationship",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Probability Theory and Statistics",
+        "credits": 3
+      }
+    ],
+    "5": [
+      {
+        "code": null,
+        "name": "Data-Driven Immersive Visualization Design",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Software Engineering (Agile & DevOps)",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Prototyping Interactive XR Experiences",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Game Engine Architecture for Immersive Experiences",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Research Methods for XR and Spatial Computing",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Exploratory 3",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "EDGE Aptitude Intermediate",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "EDGE Intermediate Employability Skills with Practice",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "SAMARTH Internship",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "Mastering Self",
+        "credits": 2
+      }
+    ],
+    "6": [
+      {
+        "code": null,
+        "name": "Extended Reality Development",
+        "credits": 5
+      },
+      {
+        "code": null,
+        "name": "Applied Machine Learning for Interactive & Immersive Systems",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Human(e) Intelligence",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Minor Project",
+        "credits": 5
+      },
+      {
+        "code": null,
+        "name": "EDGE Aptitude Advance Practice",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "EDGE Advance Employability Skills",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "Exploratory 4",
+        "credits": 3
+      }
+    ],
+    "7": [
+      {
+        "code": null,
+        "name": "Capstone Project (Part I)",
+        "credits": 5
+      },
+      {
+        "code": null,
+        "name": "Summer Internship",
+        "credits": 1
+      },
+      {
+        "code": null,
+        "name": "Exploratory 5",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Industry Applications of XR & Spatial Computing",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "AI and Future of Work / Society",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "IT Ethical Practices",
+        "credits": 3
+      }
+    ],
+    "8": [
+      {
+        "code": null,
+        "name": "Capstone Project (Part II)",
+        "credits": 5
+      },
+      {
+        "code": null,
+        "name": "Exploratory 6",
+        "credits": 3
+      }
+    ]
+  },
+  "BTech CSE Math & Comp": {
+    "1": [
+      {
+        "code": null,
+        "name": "Calculus of Several Variables",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Programming in C",
+        "credits": 5
+      },
+      {
+        "code": null,
+        "name": "Digital Electronics",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Introduction to Mathematical Proofs",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Environment Sustainability & Climate Change",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Chemistry for Mankind",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Managing Self",
+        "credits": 2
+      }
+    ],
+    "2": [
+      {
+        "code": null,
+        "name": "Ordinary Differential Equations",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Data Structures and Algorithms",
+        "credits": 5
+      },
+      {
+        "code": null,
+        "name": "Object Oriented Programming",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Operating Systems",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Linear Algebra and Matrix Methods",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Environment Sustainability & Climate Change (Living Lab)",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Time & Priority Management",
+        "credits": 2
+      }
+    ],
+    "3": [
+      {
+        "code": null,
+        "name": "Database Management Systems",
+        "credits": 5
+      },
+      {
+        "code": null,
+        "name": "Complex Variables and Transforms",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Machine Learning",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Discrete Mathematics",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "SRIJAN Social Internship",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "EDGE Aptitude Fundamentals",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "Exploratory 1",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Leading Conversations",
+        "credits": 2
+      }
+    ],
+    "4": [
+      {
+        "code": null,
+        "name": "Design Analysis and Algorithms",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Probability Theory and Random Processes",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Signals and Systems",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Partial Differential Equations",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Indian Constitution",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "Physics for Computing",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Exploratory 2",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "EDGE Aptitude Basic",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "EDGE Basic Employability Skills",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "Writing with Impact",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Financial Engineering I",
+        "credits": 3
+      }
+    ],
+    "5": [
+      {
+        "code": null,
+        "name": "Optimization and Calculus of Variations",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Formal Languages and Automata Theory",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Mathematical Modelling and Simulation",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Real Analysis",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Statistical Inference",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Stochastic Modelling and Simulation",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "EDGE Aptitude Intermediate",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "EDGE Intermediate Employability Skills with Practice",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "SAMARTH Internship",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "Leadership and Team Building",
+        "credits": 2
+      }
+    ],
+    "6": [
+      {
+        "code": null,
+        "name": "Dynamical Systems",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Compiler Design",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Deepening Self",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Minor Project",
+        "credits": 5
+      },
+      {
+        "code": null,
+        "name": "EDGE Aptitude Advance Practice",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "EDGE Advance Employability Skills",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "Exploratory 4",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Stochastic Calculus for Finance",
+        "credits": 3
+      }
+    ],
+    "7": [
+      {
+        "code": null,
+        "name": "Capstone Project - Phase-1",
+        "credits": 5
+      },
+      {
+        "code": null,
+        "name": "Summer Internship",
+        "credits": 1
+      },
+      {
+        "code": null,
+        "name": "Exploratory 5",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Portfolio Optimization",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Reinforcement Learning for Finance and Other Dynamical Systems",
+        "credits": 3
+      }
+    ],
+    "8": [
+      {
+        "code": null,
+        "name": "Capstone Project - Phase-2",
+        "credits": 5
+      },
+      {
+        "code": null,
+        "name": "Exploratory 6",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "IT Ethical Practices",
+        "credits": 3
+      }
+    ]
+  },
+  "BTech Robotics & Auto": {
+    "1": [
+      {
+        "code": null,
+        "name": "Advanced Engineering Mathematics I",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Engineering Physics for Robotics",
+        "credits": 5
+      },
+      {
+        "code": null,
+        "name": "Programming for Engineers",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Engineering Graphics & CAD",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Workshop & Fabrication",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Managing Self",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Environment Sustainability & Climate Change",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "AI Foundations & Ethical AI",
+        "credits": 3
+      }
+    ],
+    "2": [
+      {
+        "code": null,
+        "name": "Advanced Engineering Mathematics II",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Electrical & Electronics for Automation",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Engineering Mechanics",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Embedded Programming with Microcontrollers",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Mechatronics Fundamentals",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Emotional Intelligence",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Environment Sustainability & Climate Change",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "AI Tools, Productivity & Prompting",
+        "credits": 3
+      }
+    ],
+    "3": [
+      {
+        "code": null,
+        "name": "Signals & Systems for Robotics",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Intelligent Algorithms & Data Architectures",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Sensors & Instrumentation",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Microcontrollers & ARM Architecture",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Control Systems Engineering",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Motors and Drives",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "SRIJAN Social Internship",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "Exploratory I",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Deepening Self",
+        "credits": 2
+      }
+    ],
+    "4": [
+      {
+        "code": null,
+        "name": "Fundamentals of Unmanned Aerial Vehicles",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Robotics Kinematics and Dynamics",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Probability & Statistics for AI",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Industrial Automation",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Rapid Product Development Technologies",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "ROS 2 & Middleware Systems",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Art of Relationship",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "EDGE-SoftSkills",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "Exploratory II",
+        "credits": 3
+      }
+    ],
+    "5": [
+      {
+        "code": null,
+        "name": "Robotics Engineering",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Deep Learning & Reinforcement Learning for Control",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Computer Vision for Robotics & Industry",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "IoT & Edge Intelligence",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Capstone I",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Mastering Self",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "EDGE \u2013 Advance Communication",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "Exploratory 3",
+        "credits": 3
+      }
+    ],
+    "6": [
+      {
+        "code": null,
+        "name": "Autonomous Mobile Robots",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Industrial IoT & Smart Manufacturing",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Digital Twin & Simulation",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Edge AI & Embedded Intelligence",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Human Computer Interaction",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Mechatronic System Design",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Capstone Project II",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Industrial Visit",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "Humane Intelligence",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "EDGE Advanced Communication II",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "Exploratory 4",
+        "credits": 3
+      }
+    ],
+    "7": [
+      {
+        "code": null,
+        "name": "Industrial Robotics & Cobots",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "AI-driven Predictive Maintenance",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "IoT for UAVs and Robotics",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Robot Safety & Standards",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Industrial Internship I",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "Project I",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Exploratory 5",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "AI and Future of Work / Society",
+        "credits": 2
+      }
+    ],
+    "8": [
+      {
+        "code": null,
+        "name": "Industrial Internship II",
+        "credits": 0
+      },
+      {
+        "code": null,
+        "name": "Major Project",
+        "credits": 12
+      },
+      {
+        "code": null,
+        "name": "Exploratory 6",
+        "credits": 3
+      }
+    ]
+  },
+  "BCA": {
+    "1": [
+      {
+        "code": null,
+        "name": "Linux Lab",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Programming in C",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Programming in C Lab",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Web Technologies",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Web Technologies Lab",
+        "credits": 1
+      },
+      {
+        "code": null,
+        "name": "Problem Solving",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Living Conversation",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Basic Mathematics I",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "and Climate Change - I",
+        "credits": 2
+      }
+    ],
+    "2": [
+      {
+        "code": null,
+        "name": "Data Structures and algorithms",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Data Structures and algorithms Lab",
+        "credits": 1
+      },
+      {
+        "code": null,
+        "name": "Databases",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Databases Lab",
+        "credits": 1
+      },
+      {
+        "code": null,
+        "name": "Python programming",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Python programming Lab",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Critical Thinking and Writing",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Basic Mathematics II",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Environmental Sustainability and Climate Change - II",
+        "credits": 2
+      }
+    ],
+    "3": [
+      {
+        "code": null,
+        "name": "Advanced Databases",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Advanced Databases Lab",
+        "credits": 1
+      },
+      {
+        "code": null,
+        "name": "Advanced Web Technologies",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Advanced Web Technologies Lab",
+        "credits": 1
+      },
+      {
+        "code": null,
+        "name": "Elements of AIML",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Elements of AIML Lab",
+        "credits": 1
+      },
+      {
+        "code": null,
+        "name": "Exploratory-1",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Design Thinking",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Applied Statistics and Probability",
+        "credits": 3
+      }
+    ],
+    "4": [
+      {
+        "code": null,
+        "name": "Data communication and Networks",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Object Oriented Programming",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Object Oriented Programming Lab",
+        "credits": 1
+      },
+      {
+        "code": null,
+        "name": "Operating Systems",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Software Engineering",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Exploratory-2",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "PE-1",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "PE-1 Lab",
+        "credits": 1
+      }
+    ],
+    "5": [
+      {
+        "code": null,
+        "name": "Mobile Application Development",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Mobile Application Development Lab",
+        "credits": 1
+      },
+      {
+        "code": null,
+        "name": "Exploratory-3",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Start your startup",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "PE-2",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "PE-2 Lab",
+        "credits": 1
+      },
+      {
+        "code": null,
+        "name": "Project-1",
+        "credits": 5
+      },
+      {
+        "code": null,
+        "name": "Summer Internship",
+        "credits": 1
+      }
+    ],
+    "6": [
+      {
+        "code": null,
+        "name": "Cyber Security",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Exploratory-4",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Leadership and Teamwork",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "PE-3",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "PE-3 Lab",
+        "credits": 1
+      },
+      {
+        "code": null,
+        "name": "Project-2",
+        "credits": 8
+      }
+    ],
+    "7": [
+      {
+        "code": null,
+        "name": "DevOps",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Exploratory-5",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "PE-4",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "PE-4 Lab",
+        "credits": 1
+      },
+      {
+        "code": null,
+        "name": "PE-5",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "PE-5 Lab",
+        "credits": 1
+      },
+      {
+        "code": null,
+        "name": "Project-3",
+        "credits": 8
+      }
+    ],
+    "8": [
+      {
+        "code": null,
+        "name": "Industry 4.0",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Project-4",
+        "credits": 10
+      },
+      {
+        "code": null,
+        "name": "Seminar",
+        "credits": 2
+      }
+    ]
+  },
+  "BSc": {
+    "1": [
+      {
+        "code": null,
+        "name": "Linux Lab",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Programming in C",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Programming in C Lab",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Digital Electronics",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Problem Solving",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Living Conversation",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Environmental Sustainability and Climate Change - I",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Mathematical Science - I",
+        "credits": 4
+      }
+    ],
+    "2": [
+      {
+        "code": null,
+        "name": "Computing for Sciences",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Data Structures and algorithms",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Data Structures and algorithms Lab",
+        "credits": 1
+      },
+      {
+        "code": null,
+        "name": "OOPs using C++",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "OOPs using C++ Lab",
+        "credits": 1
+      },
+      {
+        "code": null,
+        "name": "Critical Thinking and Writing",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Environmental Sustainability and Climate Change - II",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Mathematical Science - II",
+        "credits": 4
+      }
+    ],
+    "3": [
+      {
+        "code": null,
+        "name": "Elements of AIML",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Elements of AIML Lab",
+        "credits": 1
+      },
+      {
+        "code": null,
+        "name": "Databases",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Databases Lab",
+        "credits": 1
+      },
+      {
+        "code": null,
+        "name": "Design and Analysis of Algorithms",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Python Programming",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Python Programming Lab",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Exploratory-1",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Design Thinking",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Discrete Mathematics & Linear Algebra",
+        "credits": 3
+      }
+    ],
+    "4": [
+      {
+        "code": null,
+        "name": "Computer Organization and Architecture",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Java Programming Lab",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Operating Systems",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Exploratory-2",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Probability, Computing and Statistics",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "PE-1",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "PE-1 Lab",
+        "credits": 1
+      }
+    ],
+    "5": [
+      {
+        "code": null,
+        "name": "Cyber Security",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "Theory of Computing",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Exploratory-3",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Start your startup",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "PE-2",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "PE-2 Lab",
+        "credits": 1
+      },
+      {
+        "code": null,
+        "name": "Project-1",
+        "credits": 4
+      }
+    ],
+    "6": [
+      {
+        "code": null,
+        "name": "Exploratory-4",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Leadership and Teamwork",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "PE-3",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "PE-4",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Project-2",
+        "credits": 7
+      },
+      {
+        "code": null,
+        "name": "Summer Internship",
+        "credits": 1
+      }
+    ],
+    "7": [
+      {
+        "code": null,
+        "name": "Compiler Design",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Research Methods",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Exploratory-5",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "PE-5",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Project-3",
+        "credits": 8
+      },
+      {
+        "code": null,
+        "name": "Research Seminar-1",
+        "credits": 1
+      }
+    ],
+    "8": [
+      {
+        "code": null,
+        "name": "Devops",
+        "credits": 2
+      },
+      {
+        "code": null,
+        "name": "IT Ethical Practice",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Project-4",
+        "credits": 12
+      },
+      {
+        "code": null,
+        "name": "Research Seminar-2",
+        "credits": 2
+      }
+    ]
+  },
+  "BTech CS & Economics": {
+    "1": [
+      {
+        "code": null,
+        "name": "Engineering Mathematics - I (Linear Algebra & Calculus)",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Engineering Physics (with Lab)",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Programming for Problem Solving (C/Python)",
+        "credits": 5
+      },
+      {
+        "code": null,
+        "name": "Principles of Microeconomics",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Professional Communication Skills",
+        "credits": 3
+      }
+    ],
+    "2": [
+      {
+        "code": null,
+        "name": "Engineering Mathematics - II (ODE & Multivariable Calculus)",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Engineering Chemistry (with Lab)",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Data Structures & Algorithms (with Lab)",
+        "credits": 5
+      },
+      {
+        "code": null,
+        "name": "Principles of Macroeconomics",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Workshop & Manufacturing Practices",
+        "credits": 3
+      }
+    ],
+    "3": [
+      {
+        "code": null,
+        "name": "Discrete Mathematical Structures",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Object-Oriented Programming (Java/C++)",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Intermediate Microeconomics (Mathematical)",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Econometrics - I (Statistical Inference)",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Digital Logic & Computer Organization",
+        "credits": 3
+      }
+    ],
+    "4": [
+      {
+        "code": null,
+        "name": "Design and Analysis of Algorithms",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Operating Systems (with Lab)",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Econometrics - II (Time Series & Forecasting)",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Intermediate Macroeconomics",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Database Management Systems",
+        "credits": 4
+      }
+    ],
+    "5": [
+      {
+        "code": null,
+        "name": "Game Theory & Strategic Behavior",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Artificial Intelligence & Machine Learning",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Computational Finance & Algorithmic Trading",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Computer Networks",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Professional Elective - I (See Baskets)",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Mini Project (Market Simulation)",
+        "credits": 2
+      }
+    ],
+    "6": [
+      {
+        "code": null,
+        "name": "Mechanism Design & Auction Theory",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Econometrics with Machine Learning",
+        "credits": 4
+      },
+      {
+        "code": null,
+        "name": "Professional Elective - II",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Open Elective - I (Management/Law)",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Environmental Sciences (Mandatory Audit)",
+        "credits": "NC"
+      },
+      {
+        "code": null,
+        "name": "Summer Internship (Industry/Research)",
+        "credits": 3
+      }
+    ],
+    "7": [
+      {
+        "code": null,
+        "name": "Behavioral Economics & Digital Platforms",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Professional Elective - III",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Professional Elective - IV",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Open Elective - II",
+        "credits": 3
+      },
+      {
+        "code": null,
+        "name": "Capstone Project Phase - I",
+        "credits": 6
+      }
+    ],
+    "8": [
+      {
+        "code": null,
+        "name": "Full Semester Industry Internship / Major Project",
+        "credits": 12
+      }
+    ]
+  }
+}

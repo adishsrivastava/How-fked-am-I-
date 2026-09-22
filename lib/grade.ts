@@ -1,0 +1,4 @@
+export const gradeScale=[{min:91,grade:'O',point:10},{min:81,grade:'A+',point:9},{min:71,grade:'A',point:8},{min:61,grade:'B+',point:7},{min:51,grade:'B',point:6},{min:46,grade:'C+',point:5},{min:40,grade:'C',point:4},{min:0,grade:'F',point:0}];
+export const grades=['O','A+','A','B+','B','C+','C','F','E*'] as const;
+export function pointForGrade(g:string){return gradeScale.find(x=>x.grade===g)?.point ?? null}
+export function reaction(gpa:number){if(gpa>=9.5)return 'Bhai degree humein bhi dila do 🙏';if(gpa>=8.5)return 'Arrey sher, saari placements aap hi khaa jaaoge lagta hai.';if(gpa>=7.2)return 'Theek chal raha hai sher. Zyada udd mat.';if(gpa>=6)return 'Mussoorie ki jagah kabhi class bhi jaaya karo sher.';if(gpa>=5.4)return 'Academic comeback ka time aa gaya hai.';return "Sonam, it's done bro... it doesn't matter yaar."}
